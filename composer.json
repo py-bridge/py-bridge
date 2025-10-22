@@ -1,0 +1,10 @@
+{
+    "name": "pybridge/php-python",
+    "description": "PHP <-> Python Bridge, Plug-and-Play with venv support",
+    "autoload": {
+        "psr-4": {
+            "PyBridge\\": "src/"
+        }
+    },
+    "require": {}
+}

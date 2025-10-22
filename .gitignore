@@ -1,0 +1,6 @@
+vendor/
+.env
+venv/
+composer.lock
+dd.php
+dlp.php
